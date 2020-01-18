@@ -5,4 +5,4 @@ Course goals: Many students lack the appropriate applied math background for und
 Suggested background: familiarity with python or another high level scripting language
 
 
-Each lecture is presented as a Jupyter Notebook. We assume the computing Python distribution from Anaconda. 
+*Each lecture is presented as a Jupyter Notebook. We assume the computing Python distribution from Anaconda. *
